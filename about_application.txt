@@ -1,0 +1,1 @@
+this application is all about the changing the colors of the profile card dynamically
